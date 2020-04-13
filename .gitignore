@@ -3,3 +3,12 @@
 ################################################################################
 
 /bin/Debug/netcoreapp2.2
+/bin/Debug/netcoreapp3.1/Properties
+/bin/Debug/netcoreapp3.1
+/obj
+/Properties
+/LiberyShop.sln
+/LiberyShop.csproj.user
+/.vs/LiberyShopBack/v16
+/.vs
+/wwwroot
